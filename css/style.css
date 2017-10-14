@@ -5,7 +5,7 @@
 /* scale all images, and media to accomodate responsive layout. */
 img, video, audio, iframe, table, form { 
 	width:100%; /* IE */
-	max-width: 100%; /* FF, Safari, Chrome */
+	max-width: 100%; /* FF, Safari, Chrome */ 
 }
 
 /* prevent the verify image on contact page from stretching */
