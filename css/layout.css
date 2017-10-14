@@ -32,11 +32,6 @@
   width: 32%;
 }
 
-* {
-  box-sizing: border-box;
-  -moz-box-sizing: border-box;
-  -webkit-box-sizing: border-box;
-}
 
 [class*='col-'] {
   margin-left: 1%;
@@ -44,4 +39,8 @@
 
 .first {
   margin-left: 0%;
+}
+
+section {
+  margin-bottom: 20px;
 }
