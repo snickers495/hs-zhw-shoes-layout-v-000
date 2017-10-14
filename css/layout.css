@@ -6,7 +6,7 @@
   border:0;
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box; 
+  -moz-box-sizing: border-box;
 }
 
 .clearfix:after {
@@ -30,10 +30,9 @@
 .col-2 {
   float: left;
   width: 32%;
+  margin-left: 2%
 }
 
-[class*="col-"] {
-  margin-left: 2%;
+* {
+  box-sizing: border-box;
 }
-
-
