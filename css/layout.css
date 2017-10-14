@@ -6,7 +6,7 @@
   border:0;
   box-sizing: border-box;
   -webkit-box-sizing: border-box;
-  -moz-box-sizing: border-box;
+  -moz-box-sizing: border-box; 
 }
 
 .clearfix:after {
@@ -23,5 +23,17 @@
 }
 
 /* Posititoning Classes */
+.col-1 {
+  float: left;
+  width: 66%;
+}
+.col-2 {
+  float: left;
+  width: 32%;
+}
+
+[class*="col-"] {
+  margin-left: 2%;
+}
 
 
