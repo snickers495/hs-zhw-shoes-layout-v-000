@@ -33,7 +33,7 @@
 }
 
 [class*='col-'] {
-  margin-left: 1%;
+  margin-left: 2%;
 }
 
 .first {
@@ -44,5 +44,3 @@
 section {
   margin-bottom: 20px;
 }
-
-
