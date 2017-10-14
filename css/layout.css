@@ -46,5 +46,5 @@ section {
 }
 
 .border_right {
-  
+  border-right: 1px solid #ccc;
 }
