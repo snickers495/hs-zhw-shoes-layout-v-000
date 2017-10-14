@@ -34,11 +34,13 @@
 
 * {
   box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
 }
 
 [class*='col-'] {
   margin-left: 1%;
-  margin-bottom: 2%
+  margin-bottom: 2%;
 }
 
 .first {
