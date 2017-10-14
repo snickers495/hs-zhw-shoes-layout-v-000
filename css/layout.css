@@ -29,9 +29,8 @@
 }
 .col-2 {
   float: left;
-  width: 32%;
+  width: 29%;
 }
-
 
 [class*='col-'] {
   margin-left: 1%;
